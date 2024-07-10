@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "record_disc",
+    "pattern": [
+        " # ",
+        "#H#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:disc_fragment_5"
+        },
+        "H": {
+            "item": "minecraft:minecart"
+        }
+    },
+    "result": {
+        "id": "minecraft:minecart",
+        "count": 1,
+        "components": {
+            "minecraft:jukebox_playable": {
+                "song": "uloncl:hobbits_to_isengard",
+                "show_in_tooltip": true
+            }
+        }
+    }
+}

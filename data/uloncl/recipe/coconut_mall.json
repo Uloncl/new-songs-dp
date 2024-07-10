@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "record_disc",
+    "pattern": [
+        " # ",
+        "#H#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:disc_fragment_5"
+        },
+        "H": {
+            "item": "minecraft:fire_charge"
+        }
+    },
+    "result": {
+        "id": "minecraft:fire_charge",
+        "count": 1,
+        "components": {
+            "minecraft:jukebox_playable": {
+                "song": "uloncl:coconut_mall",
+                "show_in_tooltip": true
+            }
+        }
+    }
+}

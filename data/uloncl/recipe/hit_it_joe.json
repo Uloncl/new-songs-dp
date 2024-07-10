@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "record_disc",
+    "pattern": [
+        " # ",
+        "#H#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:disc_fragment_5"
+        },
+        "H": {
+            "item": "minecraft:blaze_powder"
+        }
+    },
+    "result": {
+        "id": "minecraft:blaze_powder",
+        "count": 1,
+        "components": {
+            "minecraft:jukebox_playable": {
+                "song": "uloncl:hit_it_joe",
+                "show_in_tooltip": true
+            }
+        }
+    }
+}

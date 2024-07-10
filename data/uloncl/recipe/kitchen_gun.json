@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "record_disc",
+    "pattern": [
+        " # ",
+        "#H#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:disc_fragment_5"
+        },
+        "H": {
+            "item": "minecraft:bow"
+        }
+    },
+    "result": {
+        "id": "minecraft:bow",
+        "count": 1,
+        "components": {
+            "minecraft:jukebox_playable": {
+                "song": "uloncl:kitchen_gun",
+                "show_in_tooltip": true
+            }
+        }
+    }
+}

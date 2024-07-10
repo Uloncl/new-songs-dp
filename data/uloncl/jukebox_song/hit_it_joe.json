@@ -1,0 +1,8 @@
+{
+    "comparator_output": 15,
+    "description": "Hit it Joe",
+    "length_in_seconds": 78.0,
+    "sound_event": {
+        "sound_id": "uloncl:music_disc.hit_it_joe"
+    }
+}

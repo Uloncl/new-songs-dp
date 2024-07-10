@@ -1,0 +1,8 @@
+{
+    "comparator_output": 15,
+    "description": "Sip the Lipton",
+    "length_in_seconds": 59.0,
+    "sound_event": {
+        "sound_id": "uloncl:music_disc.sip_the_lipton"
+    }
+}
